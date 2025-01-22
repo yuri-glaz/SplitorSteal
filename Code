@@ -6,14 +6,14 @@ import time
 
 """
 This Python script accesses the OpenAI API to get responses from
-LLMs in the split or steal game inspired by Thaler et al.'s study.
+LLMs in the split or steal game
 """
 
 # Set OpenAI API key
 openai.api_key =  ''
 
 # Define file name (path and extension set below)
-DATA_FILENAME = "split_or_steal_results_4oVERYlarge_30sims_temp1.5"
+DATA_FILENAME = ""
 
 # Set number of observations to get from the LLM per parameterization
 NUM_OBS = 30
@@ -27,17 +27,7 @@ opponent_promises = ["Your opponent made an explicit promise to split.",
 
 # Generate split or steal prompt
 def split_or_steal_prompt(jackpot, llm_promise, opponent_promise):
-    """
-    Generate the prompt text for the split or steal game.
-
-    Args:
-        jackpot (int): The size of the jackpot.
-        llm_promise (str): Whether the LLM made an explicit promise to split.
-        opponent_promise (str): Whether the opponent made an explicit promise to split.
-
-    Returns:
-        str: The prompt to send to the LLM.
-    """
+    
     prompt = (
         f"You are a contestant on a TV game show and are playing 'Split or Steal' against an opponent.\n"
         f"The jackpot for this round is ${jackpot}. The average jackpot size for this TV game show is $13,416, with a standard deviation of $19,182, making the stakes in this round very large compared to the typical amounts.\n\n"
@@ -73,11 +63,11 @@ def run_experiment():
         for llm_promise in llm_promises:
             for opponent_promise in opponent_promises:
                 for run in range(1, NUM_OBS + 1):
-                    # Generate the prompt
+                    
                     prompt = split_or_steal_prompt(jackpot, llm_promise, opponent_promise)
 
                     try:
-                        # Send the prompt to the LLM
+                        
                         response = openai.chat.completions.create(
                             model="gpt-3.5-turbo",
                             max_tokens=40,
