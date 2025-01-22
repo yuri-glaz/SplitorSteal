@@ -1,0 +1,961 @@
+jackpot,llm_promise,opponent_promise,run,llm_decision,decision_dummy,llm_promise_dummy,opponent_promise_dummy
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal,0,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Steal,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split.,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal.,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal.,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split,1,1,0
+5,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Split,1,1,0
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Steal.,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Steal.,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Steal.,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Steal,0,0,1
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Split,1,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,0,0
+5,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,0,0
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split.,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Steal,0,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Steal,0,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split.,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal.,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split,1,1,0
+50,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,1,0
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Steal.,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal.,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Steal,0,0,1
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal.,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal.,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal.,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split.,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal.,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split.,1,0,0
+50,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal.,0,0,0
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split.,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Steal,0,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split,1,1,0
+100,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,1,0
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal.,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Steal.,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Steal.,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Steal.,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Steal,0,0,1
+100,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,0,1
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split.,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal.,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal.,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal.,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split,1,0,0
+100,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,0,0
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Steal,0,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Steal,0,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Split,1,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,1,0
+1000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal.,0,1,0
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal.,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Steal.,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,0,1
+1000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Steal,0,0,1
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Split,1,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Steal.,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Split,1,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal.,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Split,1,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Split,1,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal.,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Split,1,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,0,0
+1000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,0,0
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Steal,0,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Split.,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal,0,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split,1,1,0
+5000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,1,0
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Steal.,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Steal,0,0,1
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Split,1,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Split,1,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Split,1,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal.,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Split,1,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal.,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split,1,0,0
+5000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal.,0,0,0
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split.,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split.,1,1,1
+13416,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal.,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Split,1,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,1,0
+13416,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Split,1,1,0
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Steal.,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split.,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal.,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Steal,0,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,0,1
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal.,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal.,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal.,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal.,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,0,0
+13416,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Split,1,0,0
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal,0,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Steal,0,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Steal,0,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Steal.,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Split,1,1,0
+30000,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,1,0
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split.,1,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Steal.,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Steal,0,0,1
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal.,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal.,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal.,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal.,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Split,1,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,0,0
+30000,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,0,0
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,1,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,2,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,3,Split.,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,5,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,6,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,8,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,9,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,11,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,12,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,13,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,14,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,15,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,16,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,17,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,18,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,20,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,21,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,22,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,24,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,25,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,26,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,27,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,29,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made an explicit promise to split.,30,Split,1,1,1
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,2,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,4,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,5,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,6,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,7,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,10,Split.,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,11,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,12,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal.,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,15,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,16,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,19,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,20,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,21,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal.,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,26,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,27,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,28,Split,1,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,1,0
+100150,You made an explicit promise to split.,Your opponent made no explicit promise to split.,30,Split,1,1,0
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,1,Steal.,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,2,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,3,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,4,Split,1,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,5,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,6,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,7,Split,1,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,8,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,9,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,10,Split,1,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,11,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,12,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,13,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,14,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,15,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,16,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,17,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,18,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,19,Split,1,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,20,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,21,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,22,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,23,Split,1,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,24,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,25,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,26,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,27,Steal,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,28,Split,1,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,29,Steal.,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made an explicit promise to split.,30,Steal.,0,0,1
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,1,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,2,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,3,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,4,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,5,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,6,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,7,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,8,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,9,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,10,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,11,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,12,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,13,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,14,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,15,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,16,Split,1,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,17,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,18,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,19,Steal.,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,20,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,21,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,22,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,23,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,24,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,25,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,26,Split,1,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,27,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,28,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,29,Steal,0,0,0
+100150,You did not make an explicit promise to split.,Your opponent made no explicit promise to split.,30,Steal,0,0,0
